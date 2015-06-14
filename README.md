@@ -1,5 +1,6 @@
 #LinkIt Jquery Plugin#
 
+This is a practice from udemy.com
 LinkIt is a simple JQuery plugin to attach links to elements
 
 ##Version##
